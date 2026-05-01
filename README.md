@@ -111,6 +111,12 @@ Implement Genetic Algorithm / A* Search
 
 Support weighted road distances instead of Euclidean distance
 
-👨‍💻 Author Pravallika-AP24110011874 Sk.Summaya-AP24110011879 Anusha bhai-AP24110011886 Priya-AP24110011956 B.Tech CSE — Algorithm Project
+👨‍💻 
+Author
+Pravallika-AP24110011874
+Sk.Summaya-AP24110011879 
+Anusha bhai-AP24110011886 
+Priya-AP24110011956 
+B.Tech CSE — Algorithm Project
 
 📜 License This project is for educational purposes only.
